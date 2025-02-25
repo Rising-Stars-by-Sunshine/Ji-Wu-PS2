@@ -47,3 +47,5 @@ This dataset is commonly used for:
 - The dataset is **clean**, but exploratory data analysis (EDA) is recommended to handle potential outliers.
 - House prices are recorded in **USD**.
 - Geographic coordinates (`lat`, `long`) allow for spatial analysis and mapping.
+
+Here is the link to [the original web page of the dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
